@@ -34,14 +34,14 @@ footer {
 /*  height: 100vh;*/
 /*  flex-direction: column;*/
 /*}*/
-.div{
-  height: 100px;
-  width: 100px;
-  margin: 5px;
-  background-color: #FCF2EC;
-  align-items: baseline;
-}
-.setWidth {
-  flex-basis: 100px;
-  flex-grow: 1;
-}
+/*.div{*/
+/*  height: 100px;*/
+/*  width: 100px;*/
+/*  margin: 5px;*/
+/*  background-color: #FCF2EC;*/
+/*  align-items: baseline;*/
+/*}*/
+/*.setWidth {*/
+/*  flex-basis: 100px;*/
+/*  flex-grow: 1;*/
+/*}*/
